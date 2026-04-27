@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iliaszaki&color=0078D4&style=flat&label=Profile+Views)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=3000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=110&lines=Hi%2C+I'm+Ilias+%F0%9F%91%8B;Data+Engineer+%26+Analyst;Turning+raw+data+into+decisions;From+chaos+to+clarity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=110&lines=Hi%2C+I'm+Ilias+%F0%9F%91%8B;Data+Engineer+%26+Analyst;Turning+raw+data+into+decisions;From+chaos+to+clarity)](https://git.io/typing-svg)
 
 </div>
 
