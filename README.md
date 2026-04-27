@@ -1,4 +1,10 @@
-# Hi, I'm Ilias 👋
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:E25A1C&height=180&section=header&text=Ilias%20Zaki&fontSize=48&fontColor=white&fontAlignY=38&desc=Data%20Engineer%20%26%20Analyst&descSize=20&descAlignY=58&descColor=white)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Ilias+%F0%9F%91%8B;Data+Engineer+%26+Analyst;Building+scalable+data+pipelines;Big+Data+%7C+Cloud+%7C+Lakehouse)](https://git.io/typing-svg)
+
+</div>
 
 Data Engineer passionate about building scalable pipelines and turning raw data into actionable insights.  
 Focused on Big Data, cloud architectures, and lakehouse systems.
@@ -41,16 +47,33 @@ Focused on Big Data, cloud architectures, and lakehouse systems.
 |---------|-------------|-------|
 | [agora](https://github.com/iliaszaki/agora) | E-commerce data platform with star schema, Airflow DAGs and dbt | Python · Airflow · dbt |
 | [Cloud-Transcriber](https://github.com/iliaszaki/Cloud-Transcriber) | Audio transcription service with history and language detection | FastAPI · Docker · Terraform |
-| [Weather App](https://github.com/iliaszaki/Weather_app) | Weather API with caching, geocoding and CI/CD | FastAPI · Docker |
 | [Blockchain](https://github.com/iliaszaki/blockchain-from-scratch) | Blockchain from scratch — PoW, PoS, smart contracts, wallets & NFTs | Python |
+| [Weather App](https://github.com/iliaszaki/Weather_app) | Weather API with caching, geocoding and CI/CD | FastAPI · Docker |
 | [ML Padel](https://github.com/iliaszaki/MLPadelProject) | Racket impact prediction from audio/vibration signals | Python · scikit-learn |
 | [QuickQCM](https://github.com/iliaszaki/QuickQCM) | Automated MCQ grading with image recognition | PHP · Python |
 
-> 🔎 Check out my other projects on my **[GitHub repositories page](https://github.com/iliaszaki?tab=repositories)** — blockchain, quantum computing, PySpark analytics, metaheuristics and more.
+> 🔎 Check out my other projects on my **[GitHub repositories page](https://github.com/iliaszaki?tab=repositories)** — quantum computing, PySpark analytics, metaheuristics and more.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Ilias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iliaszaki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliaszaki&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ### 📬 Contact
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilias_Zaki-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilias-zaki-b5841a226)
 [![GitHub](https://img.shields.io/badge/GitHub-iliaszaki-181717?style=flat&logo=github&logoColor=white)](https://github.com/iliaszaki)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E25A1C,100:0078D4&height=120&section=footer)
