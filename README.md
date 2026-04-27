@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:E25A1C&height=180&section=header&text=Ilias%20Zaki&fontSize=48&fontColor=white&fontAlignY=38&desc=Data%20Engineer%20%26%20Analyst&descSize=20&descAlignY=58&descColor=white)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:E25A1C&height=180&section=header&text=Ilias%20Zaki&fontSize=48&fontColor=white&fontAlignY=38&desc=Data%20Engineer%20%7C%20Analyst&descSize=20&descAlignY=58&descColor=white)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Ilias+%F0%9F%91%8B;Data+Engineer+%26+Analyst;Building+scalable+data+pipelines;Big+Data+%7C+Cloud+%7C+Lakehouse)](https://git.io/typing-svg)
 
