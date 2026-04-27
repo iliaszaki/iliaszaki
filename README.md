@@ -42,7 +42,7 @@ Focused on Big Data, cloud architectures, and lakehouse systems.
 | [agora](https://github.com/iliaszaki/agora) | E-commerce data platform with star schema, Airflow DAGs and dbt | Python · Airflow · dbt |
 | [Cloud-Transcriber](https://github.com/iliaszaki/Cloud-Transcriber) | Audio transcription service with history and language detection | FastAPI · Docker · Terraform |
 | [Weather App](https://github.com/iliaszaki/Weather_app) | Weather API with caching, geocoding and CI/CD | FastAPI · Docker |
-| [AI Health](https://github.com/iliaszaki/AI_Health_MiniProject) | Medical image classification — CNN vs Vision Transformer | TensorFlow · Keras |
+| [Blockchain](https://github.com/iliaszaki/blockchain-from-scratch) | Blockchain from scratch — PoW, PoS, smart contracts, wallets & NFTs | Python |
 | [ML Padel](https://github.com/iliaszaki/MLPadelProject) | Racket impact prediction from audio/vibration signals | Python · scikit-learn |
 | [QuickQCM](https://github.com/iliaszaki/QuickQCM) | Automated MCQ grading with image recognition | PHP · Python |
 
