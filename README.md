@@ -56,12 +56,31 @@ Focused on Big Data, cloud architectures, and lakehouse systems.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠 Skills
 
 <div align="center">
 
-![Ilias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iliaszaki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliaszaki&layout=compact&theme=tokyonight&hide_border=true)
+[![Skills](https://skillicons.dev/icons?i=python,postgres,fastapi,django,js,docker,terraform,tensorflow,azure,github&perline=10)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📊 Most Used Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iliaszaki&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)
+
+</div>
+
+---
+
+### 👀 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=iliaszaki&color=0078D4&style=flat&label=Profile+Views)
 
 </div>
 
